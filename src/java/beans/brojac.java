@@ -15,4 +15,6 @@ public class brojac {
 }
     public String poruka(){
         return "Poruka iz brojaca 1";
-    }}
+    }
+
+}
